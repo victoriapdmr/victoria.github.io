@@ -7,6 +7,7 @@
 * [ссылка на модель(rsf)](https://github.com/victoriapdmr/victoria.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.rsf)
 * [ссылка на модель(картинка)](https://github.com/victoriapdmr/victoria.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.png)
 * [ссылка на модель(html)](https://github.com/victoriapdmr/victoria.github.io/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.htm)
+http://www.plantuml.com/plantuml/png/JSynIWD150RWEdEAHoe53n7Z1UoiXvt17JBPaJSRB2GGLx4n6D12i53Z2I8OI95Th_2_6_bmBMo__v-VUQDSMwvdqsZo95GNbksKYcXpfYip6DjYSivfLhcJ51FJMHbgRmR7pEcobt7KYXOJEy__QMxwbI7MqiWDlh15AysGRAPJtIQyeCCUtxAK1scmbON1e-8xuGqxkSP6totfpmxmZ1ORj1gjZaZZ3f-o-1LrMH5skd-BJd6lSDSNyOHNhF4XzuVwfJ8uJqNW8depyfNJity0
 * [текст первой диаграммы](https://topenkoff.github.io/uml1.txt)
 * [текст второй диаграммы](https://topenkoff.github.io/uml2.txt)
 * [изображение первой диаграммы](https://topenkoff.github.io/image_uml1.PNG)
