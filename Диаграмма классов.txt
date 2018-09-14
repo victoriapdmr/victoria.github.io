@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент" as P {
+ Компьютер
+ВКР Писать ВКР (Знания, собранная информация, ГОСТы)
+}
+hide circle
+@enduml
