@@ -4,9 +4,9 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "Студент" as P {
- Компьютер
-ВКР Писать ВКР (Знания, собранная информация, ГОСТы)
+class "Разработчик" as P {
+ Среда разработки
+Готовая CRM-система Разработать CRM-систему (Требования заказчика)
 }
 hide circle
 @enduml
