@@ -1,7 +1,7 @@
 # Отчет о лабораторных работах
 # Студент группы ИДБ-15-12 Подмарькова Виктория Сергеевна
 ## Лабораторная 1
-![](http://127.0.0.1:62397/fullmodel/index.html?id=3&printVersion=true)
+![](https://github.com/victoriapdmr/victoria.github.io/blob/master/01_A0.png)
 ### Индивидуальное задание - модель IDEF0
 
 ### Индивидуальное задание - диаграмма классов
