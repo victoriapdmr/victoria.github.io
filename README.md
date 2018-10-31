@@ -2,7 +2,7 @@
 # Студент группы ИДБ-15-12 Подмарькова Виктория Сергеевна
 ## Лабораторная 1
 ### Индивидуальное задание - модель IDEF0
-* [ссылка на модель(rsf)](https://github.com/victoriapdmr/victoria.github.io/blob/master/1.rsf)
+* [ссылка на модель(rsf)](https://github.com/victoriapdmr/victoria.github.io/blob/master/pdc.rsf)
 * ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/01_A0.png)
 ### Индивидуальное задание - диаграмма классов
 * [текст диаграммы](https://github.com/victoriapdmr/victoria.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.txt)
@@ -14,7 +14,7 @@
 ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/01_A0.png)
 ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/02_A0.png)
 ## Лабораторная 3
-
+![](https://github.com/victoriapdmr/victoria.github.io/blob/master/04_A2.png)
 ## Лабораторная 4
 
 ## Лабораторная 5
