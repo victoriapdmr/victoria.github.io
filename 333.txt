@@ -4,27 +4,27 @@ BackgroundColor White
 ArrowColor Black 
 BorderColor Black 
 } 
-class Entity as "Модули" 
+class Entity as "РњРѕРґСѓР»Рё" 
 
-class Window as "Экранная форма" 
+class Window as "Р­РєСЂР°РЅРЅР°СЏ С„РѕСЂРјР°" 
 
-class WindowA121 as "Форма вывода информации о клиентах" 
+class WindowA121 as "Р¤РѕСЂРјР° РІС‹РІРѕРґР° РёРЅС„РѕСЂРјР°С†РёРё Рѕ РєР»РёРµРЅС‚Р°С…" 
 
-class WindowA131 as "Форма создания лида" 
+class WindowA131 as "Р¤РѕСЂРјР° СЃРѕР·РґР°РЅРёСЏ Р»РёРґР°" 
 
-class WindowA211 as "Форма создания сделки" 
+class WindowA211 as "Р¤РѕСЂРјР° СЃРѕР·РґР°РЅРёСЏ СЃРґРµР»РєРё" 
 
-class WindowA221 as "Форма определения задач" 
+class WindowA221 as "Р¤РѕСЂРјР° РѕРїСЂРµРґРµР»РµРЅРёСЏ Р·Р°РґР°С‡" 
 
-class WindowA321 as "Форма выставления счета" 
+class WindowA321 as "Р¤РѕСЂРјР° РІС‹СЃС‚Р°РІР»РµРЅРёСЏ СЃС‡РµС‚Р°" 
 
-Entity <|— Window 
+Entity <|вЂ” Window 
 
-Window <|— WindowA121 
-Window <|— WindowA131 
-Window <|— WindowA211 
-Window <|— WindowA221 
-Window <|— WindowA321 
+Window <|вЂ” WindowA121 
+Window <|вЂ” WindowA131 
+Window <|вЂ” WindowA211 
+Window <|вЂ” WindowA221 
+Window <|вЂ” WindowA321 
 
 hide members 
 hide circle 
