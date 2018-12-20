@@ -46,6 +46,10 @@
 * ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/07_A22.png)
 * ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/08_A23.png)
 ## Лабораторная 6
-* [Код UML для потокоа](https://github.com/victoriapdmr/victoria.github.io/blob/master/111.txt)
+* [Код UML для потоков](https://github.com/victoriapdmr/victoria.github.io/blob/master/111.txt)
 * ![](http://www.plantuml.com/plantuml/png/dPBFQbD15CRNFKynPD-DeQvSr0Q5WhMbLjnaCzuxDcFdJvoPYnGLDFvnKQ6W6n6fVvuWYi6qCUahd7aZ3yx4zbu3GZU1dFFxlZDytrtrWRjGQGL-Jve-TropGd7lsIDOMkF5tgwpbIaxLbd7xlHa4B1qrJdxC4tM5244MbSATtxq19BBDHDas6VSinP-mbaSu0nFSDo2l5yt_IgazTluafO_S4g_nrs3ftEybTdDAfo33_w7Twm9pgh6xQw9p_4qFiKXViS9ZaW_ZeTdxxcvRkvPftcGrYJfUvp65pWZoIySnbSu9fifpGxm-Aziy_RE1W_2IQwa3x98oe_43t14oZ6TcyGt3LLdP_l6XSvjYmULT48B4tnIVS09aIFY1l4Pdf3oaE4tkleJX_D0haiZVK-KMyxU5pu7UKI2r_J6mLbiki_D_fPLiiZ5lSCZ_89V6NxkcfNsvKihS_PMuIgz8KBFbjJzxcAytMunWFmXN7cyl9nBhurIj_NPl42094ZQMa6GTDcZMG9aXxHkfWrGyqfGBLbeEYQccICqd1DLot4nysz-3A0dIy6qq7U5y-bF8LsXH5xyWJsi2bDMMlq6)
+* [Код UML для ролей](https://github.com/victoriapdmr/victoria.github.io/blob/master/222.txt)
+* ![](http://www.plantuml.com/plantuml/png/LP71IiD048RFtQTOUkyRUAXLZuBWmVEQB6PfaYspMqHKIE9Hi1SFWXvyXA2fLjl6LvXz8oVTXBQ47ER_l_bd9XaQAy1EavYPiKed0aJ2WrWOmszPRoI2yHNeQHeUwLW3luYKbQnt2A2llJAA2I5GGoXXLxfdFkKajShUS65u7z-nnYKk-grr9i7er5klxWch7GlqH4BNzu9hbxl2PUu1LpYdgd2F73yexXih4duQc-g5ctK9fw9DVciQwAtm2-Skw_nZ1Tv_fgwC_5zAgBV-kJ9sExqWu9Em1grfK8bhUaetuoudCTy0AomvRVX7J4dCiXdiLse_mi7TOD1UlI-rrpBlUP4EsAjfOTQ1NcbMP94A9KzaSaceBm85GImxmqOwD6meqv3-yJy0)
+* [Код UML для модулей](https://github.com/victoriapdmr/victoria.github.io/blob/master/333.txt)
+* ![](http://www.plantuml.com/plantuml/png/XPAzJiCm483d-YcixXtQh0nj4S_GsSGMjPh4o7PL8K2Y_D21WHTWP4MAAYAYGiChdD-8ivoAgWb2MNpVtNsspnaQoxITfmanCvcTCyrI6YVC67f9EcCMpywqccVyM2LAqybKMa4w8wtL8f1nWYLOg3GNUXzTas0voQoq5vGPseKNgE3TtS4db5rIvoSouseHyc-mSJUGmnQ_t3rJTmyLWY_83yf7_K4_jBpkAYYitHEi_Gu-A67xs-qUCIufL1GsVdCeC7kB_A7XZHfUjqJdXxVYgKeybJTWs3ZJeFzlBm8C2ZHie6pqjzofWczS5dLJKLjGcNkfMnqwelQvkAM_Bgpt78XMK7YCZlgHZgvwlTs3418M0UwDlPL7xHn7qix_y4IUawdaWgOYFHNQX22MEax4Bc6dYXio51d7t_O7)
 
