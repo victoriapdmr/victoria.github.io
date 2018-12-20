@@ -1,0 +1,32 @@
+@startuml 
+skinparam class { 
+BackgroundColor White 
+ArrowColor Black 
+BorderColor Black 
+} 
+class Entity as "ћодули" 
+
+class Window as "Ёкранна€ форма" 
+
+class WindowA121 as "‘орма вывода информации о клиентах" 
+
+class WindowA131 as "‘орма создани€ лида" 
+
+class WindowA211 as "‘орма создани€ сделки" 
+
+class WindowA221 as "‘орма определени€ задач" 
+
+class WindowA321 as "‘орма выставлени€ счета" 
+
+Entity <|Ч Window 
+
+Window <|Ч WindowA121 
+Window <|Ч WindowA131 
+Window <|Ч WindowA211 
+Window <|Ч WindowA221 
+Window <|Ч WindowA321 
+
+hide members 
+hide circle 
+hide methods 
+@enduml

@@ -1,0 +1,40 @@
+@startuml 
+skinparam class { 
+BackgroundColor White 
+ArrowColor Black 
+BorderColor Black 
+} 
+class Entity as "ѕотоки" 
+
+class Input as "¬ходной\nпоток" 
+class Output as "¬ыходной\nпоток" 
+class Control as "ѕоток\nуправлени€" 
+
+class INInformation as "»нформационный" 
+
+class OUTMaterialistic as "ћатериальный" 
+
+class CTRLInformation as "»нформационный" 
+
+class Requirements as " лиентска€ база" 
+class FinishedProjest as "ќтчет" 
+class CompanyPolicy as "√ќ—“ –\n53625" 
+class ScrumMethodology as "√ќ—“ –\n53633" 
+
+Entity <|Ч Input 
+Entity <|Ч Output 
+Entity <|Ч Control 
+
+Input <|Ч INInformation 
+Output <|Ч OUTMaterialistic 
+Control <|Ч CTRLInformation 
+
+INInformation <|Ч Requirements 
+OUTMaterialistic <|Ч FinishedProjest 
+CTRLInformation <|Ч CompanyPolicy 
+CTRLInformation <|Ч ScrumMethodology 
+
+hide members 
+hide circle 
+hide methods 
+@enduml
