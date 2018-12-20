@@ -26,9 +26,13 @@
 * Формальное определение точки зрения (владелец, руководитель) – Участник проекта.
 * Формальное определение цели моделирования (вопросы к модели) – Визуализировать процесс управления проектом в системе управления проектами, основанной на методологии Scrum.
 * Формальное определение темы курсового проекта (наименование информационной системы) – Cистема гибкого управления проектами.
-* Разработка диаграмм в RAMUS
+### Разработка диаграмм в RAMUS
 * [ссылка на модель(rsf)](https://github.com/victoriapdmr/victoria.github.io/blob/master/pdc.rsf)
 * ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/01_A0.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/02_A0.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/03_A1.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/05_A2.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/09_A3.png)
 ## Лабораторная 5
 
 ## Лабораторная 6
