@@ -37,10 +37,15 @@
 ### Определение основных средств автоматизации
 #### Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование)
 * Рабочие станции (ПК).
-* Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные)
-** Многоуровневые.
-* Определение допустимых видов хранилищ и их размещения
-** База данных 1С.
+#### Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные)
+* Многоуровневые.
+#### Определение допустимых видов хранилищ и их размещения
+* База данных 1С.
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/04_A11.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/06_A21.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/07_A22.png)
+* ![](https://github.com/victoriapdmr/victoria.github.io/blob/master/08_A23.png)
 ## Лабораторная 6
+* [Код UML для потокоа](https://github.com/victoriapdmr/victoria.github.io/blob/master/111.txt)
+* ![](http://www.plantuml.com/plantuml/png/dPBFQbD15CRNFKynPD-DeQvSr0Q5WhMbLjnaCzuxDcFdJvoPYnGLDFvnKQ6W6n6fVvuWYi6qCUahd7aZ3yx4zbu3GZU1dFFxlZDytrtrWRjGQGL-Jve-TropGd7lsIDOMkF5tgwpbIaxLbd7xlHa4B1qrJdxC4tM5244MbSATtxq19BBDHDas6VSinP-mbaSu0nFSDo2l5yt_IgazTluafO_S4g_nrs3ftEybTdDAfo33_w7Twm9pgh6xQw9p_4qFiKXViS9ZaW_ZeTdxxcvRkvPftcGrYJfUvp65pWZoIySnbSu9fifpGxm-Aziy_RE1W_2IQwa3x98oe_43t14oZ6TcyGt3LLdP_l6XSvjYmULT48B4tnIVS09aIFY1l4Pdf3oaE4tkleJX_D0haiZVK-KMyxU5pu7UKI2r_J6mLbiki_D_fPLiiZ5lSCZ_89V6NxkcfNsvKihS_PMuIgz8KBFbjJzxcAytMunWFmXN7cyl9nBhurIj_NPl42094ZQMa6GTDcZMG9aXxHkfWrGyqfGBLbeEYQccICqd1DLot4nysz-3A0dIy6qq7U5y-bF8LsXH5xyWJsi2bDMMlq6)
 
-## Лабораторная 7
