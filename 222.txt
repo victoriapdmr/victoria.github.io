@@ -4,17 +4,17 @@ BackgroundColor White
 ArrowColor Black 
 BorderColor Black 
 } 
-class Entity as "Роли" 
-class Person as "Люди" 
-class Property as "Инструменты воздействия" 
-class Man as "Менеджер" 
-class Dir as "Директор" 
-class Sist as "Интегрированная система управления" 
-Entity <|— Person 
-Entity <|— Property 
-Person <|— Man 
-Person <|— Dir 
-Property <|— Sist 
+class Entity as "Р РѕР»Рё" 
+class Person as "Р›СЋРґРё" 
+class Property as "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹ РІРѕР·РґРµР№СЃС‚РІРёСЏ" 
+class Man as "РњРµРЅРµРґР¶РµСЂ" 
+class Dir as "Р”РёСЂРµРєС‚РѕСЂ" 
+class Sist as "РРЅС‚РµРіСЂРёСЂРѕРІР°РЅРЅР°СЏ СЃРёСЃС‚РµРјР° СѓРїСЂР°РІР»РµРЅРёСЏ" 
+Entity <|вЂ” Person 
+Entity <|вЂ” Property 
+Person <|вЂ” Man 
+Person <|вЂ” Dir 
+Property <|вЂ” Sist 
 hide members 
 hide circle 
 hide methods 
