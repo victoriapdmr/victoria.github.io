@@ -4,35 +4,35 @@ BackgroundColor White
 ArrowColor Black 
 BorderColor Black 
 } 
-class Entity as "Потоки" 
+class Entity as "РџРѕС‚РѕРєРё" 
 
-class Input as "Входной\nпоток" 
-class Output as "Выходной\nпоток" 
-class Control as "Поток\nуправления" 
+class Input as "Р’С…РѕРґРЅРѕР№\nРїРѕС‚РѕРє" 
+class Output as "Р’С‹С…РѕРґРЅРѕР№\nРїРѕС‚РѕРє" 
+class Control as "РџРѕС‚РѕРє\nСѓРїСЂР°РІР»РµРЅРёСЏ" 
 
-class INInformation as "Информационный" 
+class INInformation as "РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№" 
 
-class OUTMaterialistic as "Материальный" 
+class OUTMaterialistic as "РњР°С‚РµСЂРёР°Р»СЊРЅС‹Р№" 
 
-class CTRLInformation as "Информационный" 
+class CTRLInformation as "РРЅС„РѕСЂРјР°С†РёРѕРЅРЅС‹Р№" 
 
-class Requirements as "Клиентская база" 
-class FinishedProjest as "Отчет" 
-class CompanyPolicy as "ГОСТ Р\n53625" 
-class ScrumMethodology as "ГОСТ Р\n53633" 
+class Requirements as "РљР»РёРµРЅС‚СЃРєР°СЏ Р±Р°Р·Р°" 
+class FinishedProjest as "РћС‚С‡РµС‚" 
+class CompanyPolicy as "Р“РћРЎРў Р \n53625" 
+class ScrumMethodology as "Р“РћРЎРў Р \n53633" 
 
-Entity <|— Input 
-Entity <|— Output 
-Entity <|— Control 
+Entity <|вЂ” Input 
+Entity <|вЂ” Output 
+Entity <|вЂ” Control 
 
-Input <|— INInformation 
-Output <|— OUTMaterialistic 
-Control <|— CTRLInformation 
+Input <|вЂ” INInformation 
+Output <|вЂ” OUTMaterialistic 
+Control <|вЂ” CTRLInformation 
 
-INInformation <|— Requirements 
-OUTMaterialistic <|— FinishedProjest 
-CTRLInformation <|— CompanyPolicy 
-CTRLInformation <|— ScrumMethodology 
+INInformation <|вЂ” Requirements 
+OUTMaterialistic <|вЂ” FinishedProjest 
+CTRLInformation <|вЂ” CompanyPolicy 
+CTRLInformation <|вЂ” ScrumMethodology 
 
 hide members 
 hide circle 
